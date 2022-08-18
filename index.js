@@ -91,7 +91,7 @@ const {
                 background: white;
                 border-radius: 10px;
                 text-align: center;
-                box-shadow: gray 0 0 10px;
+                box-shadow: gray 0 0 0px;
                 overflow: hidden;
             }
 
