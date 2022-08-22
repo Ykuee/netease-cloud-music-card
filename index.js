@@ -89,7 +89,7 @@ const {
             .card {
                 display: inline-block;
                 background: white;
-                border-radius: 10px;
+                border-radius: 0px;
                 text-align: center;
                 box-shadow: gray 0 0 0px;
                 overflow: hidden;
