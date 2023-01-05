@@ -93,6 +93,9 @@ const {
                 text-align: center;
                 box-shadow: gray 0 0 0px;
                 overflow: hidden;
+                backdrop-filter: blur(20px);
+                background-color: rgba(255,255,255, 0.406);
+                border: 0px rgba(255,255,255,0.4) solid;
             }
 
             .user {
